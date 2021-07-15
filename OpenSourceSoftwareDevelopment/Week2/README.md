@@ -1,4 +1,4 @@
-Open Source Software Development <a target = "_blank" href = "https://www.coursera.org/learn/open-source-software-development-methods/home/week/2">week 2 contains 3 quiz.
+Open Source Software Development <a target = "_blank" href = "https://www.coursera.org/learn/open-source-software-development-methods/home/week/2">week 2 </a> contains 3 quiz.
   
 ### Quiz 1:
   
